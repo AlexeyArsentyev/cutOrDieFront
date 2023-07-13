@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/cutOrDieFront/static/css/main.d199a0d6.css",
+    "main.js": "/cutOrDieFront/static/js/main.89236d8c.js",
+    "static/js/787.0338b5c1.chunk.js": "/cutOrDieFront/static/js/787.0338b5c1.chunk.js",
+    "static/media/bodyBG.png": "/cutOrDieFront/static/media/bodyBG.ffd6f7991f0fde1aba7d.png",
+    "static/media/topSectionBG.png": "/cutOrDieFront/static/media/topSectionBG.40bdc97f69640bf6d67d.png",
+    "static/media/woodenPlate.png": "/cutOrDieFront/static/media/woodenPlate.518617f16bfbe4c45546.png",
+    "static/media/dividerLeft.svg": "/cutOrDieFront/static/media/dividerLeft.52821dfedced4115fe9fb1547bd37096.svg",
+    "static/media/dividerRight.svg": "/cutOrDieFront/static/media/dividerRight.c4226e3c0fcb9fef4f628d31fd99f313.svg",
+    "static/media/blot2.png": "/cutOrDieFront/static/media/blot2.60a8569eebd4e22f0e6d.png",
+    "static/media/blot.png": "/cutOrDieFront/static/media/blot.7a7477e892061523ec89.png",
+    "static/media/viewAllBtn.svg": "/cutOrDieFront/static/media/viewAllBtn.34f366a540c97925b7929b778524719b.svg",
+    "static/media/cardBG.png": "/cutOrDieFront/static/media/cardBG.88e2240b26651f562e24.png",
+    "static/media/haircut.png": "/cutOrDieFront/static/media/haircut.506f9393f9a37cd4db19.png",
+    "static/media/buyNowbtn.svg": "/cutOrDieFront/static/media/buyNowbtn.4fe00c1d9ae6d60af5d23f50e10f48e9.svg",
+    "static/media/coin.svg": "/cutOrDieFront/static/media/coin.336db10377a3b47552060907ded508df.svg",
+    "static/media/button2.svg": "/cutOrDieFront/static/media/button2.663a600803cd4c2be31215e40e5f7cd5.svg",
+    "static/media/button1.svg": "/cutOrDieFront/static/media/button1.74fee99638f8560d12d3a7f6c46a8d6d.svg",
+    "static/media/euro.svg": "/cutOrDieFront/static/media/euro.2cc092411302310dcad1f263cc4b3e54.svg",
+    "static/media/dollar.svg": "/cutOrDieFront/static/media/dollar.047586015ccb2c4acc75a900b51d652b.svg",
+    "static/media/hryvnia.svg": "/cutOrDieFront/static/media/hryvnia.173a40f4ee146ef42558185ab7e81cfe.svg",
+    "static/media/footerLogo.png": "/cutOrDieFront/static/media/footerLogo.aa1e3ad484d17b15447e.png",
+    "static/media/button3.svg": "/cutOrDieFront/static/media/button3.17350da538e0d5d0de3fadb990b6ebe8.svg",
+    "static/media/group.svg": "/cutOrDieFront/static/media/group.e31aedd3f137cfebb79629eb21197d4c.svg",
+    "static/media/skull_logo.svg": "/cutOrDieFront/static/media/skull_logo.a0a2d1ac0b1d854b46f086a575b34569.svg",
+    "index.html": "/cutOrDieFront/index.html",
+    "static/media/vertical.svg": "/cutOrDieFront/static/media/vertical.85e81c6740fa62c7e0ee88e4ac48bcb0.svg",
+    "main.d199a0d6.css.map": "/cutOrDieFront/static/css/main.d199a0d6.css.map",
+    "main.89236d8c.js.map": "/cutOrDieFront/static/js/main.89236d8c.js.map",
+    "787.0338b5c1.chunk.js.map": "/cutOrDieFront/static/js/787.0338b5c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d199a0d6.css",
+    "static/js/main.89236d8c.js"
+  ]
+}
