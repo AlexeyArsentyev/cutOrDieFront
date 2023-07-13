@@ -17,7 +17,6 @@
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
     "axios": "^1.4.0f",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.14.1",
@@ -51,5 +50,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://AlexeyArsentyev.github.io/cutordie"
+  "homepage": "https://AlexeyArsentyev.github.io/cutOrDieFront",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
